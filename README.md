@@ -17,4 +17,4 @@ The project focuses on pixel-perfect implementation, smooth interactions, and ac
 
 ## 📂 Project Setup
 1. Clone this repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sirichandanareddyr/figma-webflow-to-responsive-website.git
